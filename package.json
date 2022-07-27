@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/spobrien1116/FEWeek9CodingAssignment/issues"
   },
-  "homepage": "https://github.com/spobrien1116/FEWeek9CodingAssignment#readme"
+  "homepage": "https://github.com/spobrien1116/FEWeek9CodingAssignment#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "jquery": "^3.6.0"
+  }
 }
